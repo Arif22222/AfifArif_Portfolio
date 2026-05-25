@@ -171,7 +171,7 @@ Software Development or Quality Assurance from August 2026 to December 2026.
           <div className="bg-white/10 border border-white/10 rounded-3xl p-8 shadow-xl">
             <p className="text-blue-400 font-semibold mb-2">Previous</p>
             <h3 className="text-2xl font-bold text-white mb-2">
-  Diploma in Information Technology
+  Diploma in Software Engineering
 </h3>
 <p className="text-blue-300 font-semibold mb-3">
   German-Malaysian Institute
