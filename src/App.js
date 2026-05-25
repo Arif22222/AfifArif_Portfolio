@@ -249,6 +249,16 @@ Software Development or Quality Assurance from August 2026 to December 2026.
               >
                 LinkedIn Profile
               </a>
+
+                            <a
+                href="https://github.com/Arif22222"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-white text-blue-900 inline-block px-6 py-3 rounded-xl font-semibold hover:bg-blue-100 transition"
+              >
+                GitHub Profile
+              </a>
+
             </div>
           </div>
         </div>
