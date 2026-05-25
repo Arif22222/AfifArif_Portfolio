@@ -2,6 +2,7 @@ import Smartkindy from "./assets/Smartkindy.png";
 import Freshmart from "./assets/Freshmart.png";
 import Enroll from "./assets/Enroll.png";
 import Hostelhub from "./assets/Hostelhub.png";
+import { FaEnvelope, FaPhoneAlt, FaLinkedin, FaGithub } from "react-icons/fa";
 
 
 function App() {
@@ -233,31 +234,39 @@ Software Development or Quality Assurance from August 2026 to December 2026.
           </p>
           <div className="flex flex-col md:flex-row justify-center gap-4">
             <div className="flex flex-col md:flex-row justify-center gap-4">
-              <p className="bg-white text-blue-900 inline-block px-6 py-3 rounded-xl font-semibold">
-                aafifariff@gmail.com
-              </p>
+              <div className="flex flex-col md:flex-row justify-center gap-4 flex-wrap">
+  <p className="bg-white text-blue-900 inline-flex items-center gap-2 px-6 py-3 rounded-xl font-semibold">
+    <FaEnvelope />
+    aafifariff@gmail.com
+  </p>
 
-              <p className="bg-white text-blue-900 inline-block px-6 py-3 rounded-xl font-semibold">
-                +60 11-2140 3327
-              </p>
+  <p className="bg-white text-blue-900 inline-flex items-center gap-2 px-6 py-3 rounded-xl font-semibold">
+    <FaPhoneAlt />
+    +60 11-2140 3327
+  </p>
 
-              <a
-                href="https://www.linkedin.com/in/afif-arif-ahmad-suhaimi-042900290"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-white text-blue-900 inline-block px-6 py-3 rounded-xl font-semibold hover:bg-blue-100 transition"
-              >
-                LinkedIn Profile
-              </a>
+  <a
+    href="https://www.linkedin.com/in/afif-arif-ahmad-suhaimi-042900290"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="bg-white text-blue-900 inline-flex items-center gap-2 px-6 py-3 rounded-xl font-semibold hover:bg-blue-100 transition"
+  >
+    <FaLinkedin />
+    LinkedIn Profile
+  </a>
 
-                            <a
-                href="https://github.com/Arif22222"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-white text-blue-900 inline-block px-6 py-3 rounded-xl font-semibold hover:bg-blue-100 transition"
-              >
-                GitHub Profile
-              </a>
+  <a
+    href="https://github.com/Arif22222"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="bg-white text-blue-900 inline-flex items-center gap-2 px-6 py-3 rounded-xl font-semibold hover:bg-blue-100 transition"
+  >
+    <FaGithub />
+    GitHub Profile
+  </a>
+</div>
+
+            
 
             </div>
           </div>
