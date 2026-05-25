@@ -73,7 +73,7 @@ function App() {
         </div>
       </nav>
 
-      <section className="pt-36 pb-24 px-6 bg-gradient-to-br from-slate-950 via-blue-950 to-slate-900">
+      <section className="pt-36 pb-24 px-6 bg-gradient-to-br from-slate-950 via-slate-900 to-blue-950">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
           <div>
             <p className="text-blue-400 font-semibold mb-4">Software Engineering Student</p>
@@ -86,7 +86,7 @@ function App() {
             </p>
 
             <div className="flex gap-4">
-              <a href="#projects" className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-xl font-semibold shadow-lg">
+              <a href="#projects" className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-xl font-semibold shadow-lg">
                 View Projects
               </a>
               <a href="#contact" className="border border-white/20 hover:bg-white/10 px-6 py-3 rounded-xl font-semibold">
@@ -226,7 +226,7 @@ Software Development or Quality Assurance from August 2026 to December 2026.
 </section>
 
       <section id="contact" className="max-w-6xl mx-auto py-20 px-6">
-        <div className="bg-gradient-to-r from-blue-600 to-blue-900 rounded-3xl p-10 text-center shadow-2xl">
+        <div className="bg-gradient-to-r from-emerald-700 to-blue-900 border border-white/10 rounded-3xl p-10 text-center shadow-2xl">
           <h2 className="text-3xl font-bold mb-4">Contact Me</h2>
           <p className="text-blue-100 mb-6">
             Feel free to contact me for internship opportunities or project discussions.
