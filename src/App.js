@@ -1,6 +1,7 @@
 import Smartkindy from "./assets/Smartkindy.png";
 import Freshmart from "./assets/Freshmart.png";
 import Enroll from "./assets/Enroll.png";
+import Hostelhub from "./assets/Hostelhub.png";
 
 
 function App() {
@@ -28,6 +29,13 @@ function App() {
       desc: "Course enrollment system using JSP, Servlet and database integration for managing users, courses and enrollments.",
       tech: "Java • JSP • Servlet • MySQL",
       image: Enroll
+    },
+        {
+      title: "Hostelhub Hostel Management System",
+      desc: "Hostel management system for admin and students with room allocation, maintenance, and payment modules.",
+      tech: "PHP • MySQL • Web System",
+      image: Hostelhub,
+      link: "https://hostelhub-project-alifdanialnasri.infinityfree.me/?i=1"
     }
   ];
 
@@ -140,6 +148,9 @@ function App() {
           </p>
           <p className="bg-white text-blue-900 inline-block px-6 py-3 rounded-xl font-semibold">
             aafifariff@gmail.com
+          </p>
+                    <p className="bg-white text-blue-900 inline-block px-6 py-3 ml-12 rounded-xl font-semibold">
+            +60 11-2140 3327
           </p>
         </div>
       </section>
