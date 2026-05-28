@@ -178,7 +178,7 @@ Software Development or Quality Assurance from August 2026 to December 2026.
   German-Malaysian Institute
 </p>
             <p className="text-slate-300 leading-7">
-              Completed studies in information technology with exposure to programming,
+              Completed studies in Software Engineering with exposure to programming,
               web development, database management, and system development projects.
             </p>
           </div>
